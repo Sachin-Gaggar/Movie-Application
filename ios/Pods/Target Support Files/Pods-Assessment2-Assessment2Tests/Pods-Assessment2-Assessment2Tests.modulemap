@@ -1,0 +1,6 @@
+module Pods_Assessment2_Assessment2Tests {
+  umbrella header "Pods-Assessment2-Assessment2Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

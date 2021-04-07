@@ -1,0 +1,6 @@
+module Pods_Assessment2 {
+  umbrella header "Pods-Assessment2-umbrella.h"
+
+  export *
+  module * { export * }
+}
